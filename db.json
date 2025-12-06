@@ -111,140 +111,222 @@
         {
             "title": "The Matrix",
             "description": "A computer programmer discovers that lives a double life as a hacker discovers that reality as he knows it is a simulation and joins a rebellion against the machines.",
-            "genre": ["Action", "Sci-Fi"],
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ],
             "release_date": "1999-03-31",
             "director": "Lana Wachowski, Lilly Wachowski"
         },
         {
             "title": "Spirited Away",
             "description": "A ten-year-old girl wanders into a world ruled by gods, witches, and spirits, where humans are changed into beasts.",
-            "genre": ["Animation", "Adventure", "Family", "Fantasy"],
+            "genre": [
+                "Animation",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
             "release_date": "2001-07-20",
             "director": "Hayao Miyazaki"
         },
         {
             "title": "The Lord of the Rings: The Return of the King",
             "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "genre": ["Action", "Adventure", "Drama", "Fantasy"],
+            "genre": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
             "release_date": "2003-12-17",
             "director": "Peter Jackson"
         },
         {
             "title": "Fight Club",
             "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much more.",
-            "genre": ["Drama"],
+            "genre": [
+                "Drama"
+            ],
             "release_date": "1999-10-15",
             "director": "David Fincher"
         },
         {
             "title": "Forrest Gump",
             "description": "The presidencies of Kennedy and Johnson, the Vietnam War, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
-            "genre": ["Drama", "Romance"],
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
             "release_date": "1994-07-06",
             "director": "Robert Zemeckis"
         },
         {
             "title": "Goodfellas",
             "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
-            "genre": ["Biography", "Crime", "Drama"],
+            "genre": [
+                "Biography",
+                "Crime",
+                "Drama"
+            ],
             "release_date": "1990-09-19",
             "director": "Martin Scorsese"
         },
         {
             "title": "Seven",
             "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
-            "genre": ["Crime", "Drama", "Mystery", "Thriller"],
+            "genre": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
             "release_date": "1995-09-22",
             "director": "David Fincher"
         },
         {
             "title": "Mad Max: Fury Road",
             "description": "In a post-apocalyptic wasteland, Max joins forces with Furiosa to flee from a tyrant and his army in an explosive high-speed chase for freedom.",
-            "genre": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi",
+                "Thriller"
+            ],
             "release_date": "2015-05-15",
             "director": "George Miller"
         },
         {
             "title": "Whiplash",
             "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams are mentored by an instructor who will stop at nothing to realize a student's potential.",
-            "genre": ["Drama", "Music"],
+            "genre": [
+                "Drama",
+                "Music"
+            ],
             "release_date": "2014-10-10",
             "director": "Damien Chazelle"
         },
         {
             "title": "Blade Runner 2049",
             "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
-            "genre": ["Action", "Drama", "Mystery", "Sci-Fi", "Thriller"],
+            "genre": [
+                "Action",
+                "Drama",
+                "Mystery",
+                "Sci-Fi",
+                "Thriller"
+            ],
             "release_date": "2017-10-06",
             "director": "Denis Villeneuve"
         },
         {
             "title": "The Silence of the Lambs",
             "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.",
-            "genre": ["Crime", "Drama", "Thriller"],
+            "genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
             "release_date": "1991-02-14",
             "director": "Jonathan Demme"
         },
         {
             "title": "There Will Be Blood",
             "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the oil business.",
-            "genre": ["Drama"],
+            "genre": [
+                "Drama"
+            ],
             "release_date": "2007-12-26",
             "director": "Paul Thomas Anderson"
         },
         {
             "title": "No Country for Old Men",
             "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
-            "genre": ["Crime", "Drama", "Thriller"],
+            "genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
             "release_date": "2007-11-21",
             "director": "Joel Coen, Ethan Coen"
         },
         {
             "title": "Oldboy",
             "description": "After being kidnapped and imprisoned for fifteen years without explanation, Oh Dae-Su is released, only to find he must find his captor in five days.",
-            "genre": ["Action", "Drama", "Mystery", "Thriller"],
+            "genre": [
+                "Action",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
             "release_date": "2003-11-21",
             "director": "Park Chan-wook"
         },
         {
             "title": "The Grand Budapest Hotel",
             "description": "A writer recounts the adventures of Gustave H, a legendary concierge at a famous European hotel, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
-            "genre": ["Adventure", "Comedy", "Crime", "Drama"],
+            "genre": [
+                "Adventure",
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
             "release_date": "2014-03-28",
             "director": "Wes Anderson"
         },
         {
             "title": "Arrival",
             "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
-            "genre": ["Drama", "Mystery", "Sci-Fi"],
+            "genre": [
+                "Drama",
+                "Mystery",
+                "Sci-Fi"
+            ],
             "release_date": "2016-11-11",
             "director": "Denis Villeneuve"
         },
         {
             "title": "The Prestige",
             "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
-            "genre": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
+            "genre": [
+                "Drama",
+                "Mystery",
+                "Sci-Fi",
+                "Thriller"
+            ],
             "release_date": "2006-10-20",
             "director": "Christopher Nolan"
         },
         {
             "title": "Gladiator",
             "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-            "genre": ["Action", "Adventure", "Drama"],
+            "genre": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
             "release_date": "2000-05-05",
             "director": "Ridley Scott"
         },
         {
             "title": "The Thing",
             "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
-            "genre": ["Horror", "Mystery", "Sci-Fi"],
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Sci-Fi"
+            ],
             "release_date": "1982-06-25",
             "director": "John Carpenter"
         },
         {
             "title": "1917",
             "description": "Two young British soldiers during World War I are given an impossible mission: deliver a message deep in enemy territory that will stop 1,600 men from walking into a deadly trap.",
-            "genre": ["Action", "Drama", "War"],
+            "genre": [
+                "Action",
+                "Drama",
+                "War"
+            ],
             "release_date": "2019-12-25",
             "director": "Sam Mendes"
         }
